@@ -291,3 +291,16 @@ header a {
 .contact-form button:hover {
   background: red;
 }
+
+/* footer */
+
+footer {
+  background: #444;
+  padding: 5rem 1rem 5rem 1rem;
+  color: white;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 0;
+}
